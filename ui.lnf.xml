@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>
